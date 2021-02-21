@@ -30,7 +30,7 @@ export class DataService {
     this.dataset.push(data);
   }
   
-  removeContestants() {
+  removeDataSet() {
     this.dataset = [];
   }
 }
